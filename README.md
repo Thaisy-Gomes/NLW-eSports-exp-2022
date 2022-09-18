@@ -1,8 +1,7 @@
 # NLW eSports
+> Trilha Explorer 🚀🎮
 
 ![preview](./.github/preview.png)
-
-> Trilha Explorer 🚀🎮
 
 Projeto construido no evento NLW eSports da Rocketseat :D
 
