@@ -1,10 +1,12 @@
-# NLW eSports - Trilha Explorer 🚀🎮
+# NLW eSports
 
 ![preview](./.github/preview.png)
 
+> Trilha Explorer 🚀🎮
+
 Projeto construido no evento NLW eSports da Rocketseat :D
 
-[🔗Clique aqui para acessar](https://Thaisy-Gomes.github.io/NLW--eSports-exp-2022)
+[🔗Clique aqui para acessar](https://Thaisy-Gomes.github.io/NLW-eSports-exp-2022/)
 
 ## Tecnologias 👩‍💻
 
